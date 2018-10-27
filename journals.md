@@ -1,0 +1,3 @@
+# Journal 5: 10/26/2018
+
+The motivation behind my learning is mostly fueled by my curiosity of the world, how it works, and its purpose. I find the gift of intelligence truly fascinating, and it feels as though that the least I can do to honor it is to strive for attaining the highest levels of learning possible, combined with using it to contribute to the progress of an ever evolving civilization.
