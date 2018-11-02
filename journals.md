@@ -13,3 +13,7 @@ The motivations behind learning, for me, are neither strictly intrinsic nor extr
 # Journal 8: 10/31/2018
 
 The most unexpected part of today's lab was thinking it was complete, but realizing the local storage was not working right. A couple of hours and two TA's later, we still didn't figure it out. When I got home, however, I cleaned up the code, tried some different things in a much simpler environment, and it made the problem-solving process so much easier. I eventually figured it out not too long afterwards since the TA's helped rule out a lot of possible issues during my time with them. The insight from all this, I guess, is that sometimes taking some time away from the code, simplifying your process to smaller steps, and asking other minds to join in on the problem-solving really helps.
+
+# Journal 9: 11/1/2018
+
+I definitely find learning through action to be more effective than spectating; especially through teaching others, putting into practice what was learned, and engaging in group discussions. I, nonetheless, view the learning process more cyclic in nature since all components are needed for a more wholistic and in-depth learning to take place.
