@@ -17,3 +17,9 @@ The most unexpected part of today's lab was thinking it was complete, but realiz
 # Journal 9: 11/1/2018
 
 I definitely find learning through action to be more effective than spectating; especially through teaching others, putting into practice what was learned, and engaging in group discussions. I, nonetheless, view the learning process more cyclic in nature since all components are needed for a more wholistic and in-depth learning to take place.
+
+# Journal 10: 11/2/2018
+
+There was definitely a time when Imposter Syndrome was clouding my judgment and interfering with growth. After a couple of decades in this world, however, I have observed that this syndrome takes place only when you begin to compare yourself to others and that, honestly, no one knows what they are doing; and if they say they do they are lying. This is due to the fact that learning is an ever evolving process; you cannot possibly know it all because it is always changing.
+
+Another good tactic for guarding against Imposter Syndrome is remembering that everyone has something to contribute; that the world does not revolve around you and you are indeed contributing to a larger whole. In other words, maintaining a higher sense of purpose in your work frees you from the anxieties over trivial matters, and keeps you focused on developing values that last long-term. Lastly, there will be, no matter how much our highly independent culture proclaims,parts of your destiny that you cannot possibly control. Putting in your best effort but also remaining detached from the outcome makes the learning journey much more effective and enjoyable.
