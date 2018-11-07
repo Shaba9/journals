@@ -27,3 +27,7 @@ Another good tactic for guarding against Imposter Syndrome is remembering that e
 # Journal 11: 11/5/2018
 
 Today I learned more about classes, constructor methods, and render methods as they apply to module-type components. It was quite difficult to, at first, understand its implementation into the Pokemon app since the code was already simplified and following the component architecture. However, once I figured out the best way to structure it, the re-organizing of the code so that it is further separated into template functions and render methods went smoothly.
+
+# Journal 12: 11/6/2018
+
+The strategy I use to learn from disappointments is that I do not expect much to begin with. That is, I try to remain detached from what I want, and focus more on the learning experience in the moment. Though, it is no easy task.
