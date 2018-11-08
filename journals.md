@@ -31,3 +31,7 @@ Today I learned more about classes, constructor methods, and render methods as t
 # Journal 12: 11/6/2018
 
 The strategy I use to learn from disappointments is that I do not expect much to begin with. That is, I try to remain detached from what I want, and focus more on the learning experience in the moment. Though, it is no easy task.
+
+# Journal 13: 11/7/2018
+
+Something that was easier to learn than I expected was the <canvas> element. When going through the readings, at first, it looked more complicated than it really was. Then I got to try it out, and it turned out to not be so bad. All the more complex things, such as the component architecture, just takes a lot of time to get used to, but I also expected it would. Not sure if that counts...
