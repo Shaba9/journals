@@ -35,3 +35,7 @@ The strategy I use to learn from disappointments is that I do not expect much to
 # Journal 13: 11/7/2018
 
 Something that was easier to learn than I expected was the <canvas> element. When going through the readings, at first, it looked more complicated than it really was. Then I got to try it out, and it turned out to not be so bad. All the more complex things, such as the component architecture, just takes a lot of time to get used to, but I also expected it would. Not sure if that counts...
+
+#Journal 14: 11/8/2018
+
+Today I learned that GitHub is sensitive to directory paths. I tried dot-slash; dot-dot-slash; no dots just slash; and no dots and no slash. Finally, no dots and no slash was the acceptable one, but only if the file is in the same directory. Who knows how it takes the others!
