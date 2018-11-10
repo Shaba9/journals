@@ -39,3 +39,7 @@ Something that was easier to learn than I expected was the <canvas> element. Whe
 # Journal 14: 11/8/2018
 
 Today I learned that GitHub is sensitive to directory paths. I tried dot-slash; dot-dot-slash; no dots just slash; and no dots and no slash. Finally, no dots and no slash was the acceptable one, but only if the file is in the same directory. Who knows how it takes the others!
+
+# Journal 15: 11/9/2018
+
+The process of keeping a journal has been comforting. To know that there is a place where my thoughts have been written down is helpful in documenting the evolving learning process. I have also observed that some days there is a lot to say on a matter, and some days there is no need for it; nonetheless, it does not mean that learning is not happening.
