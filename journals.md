@@ -43,3 +43,7 @@ Today I learned that GitHub is sensitive to directory paths. I tried dot-slash; 
 # Journal 15: 11/9/2018
 
 The process of keeping a journal has been comforting. To know that there is a place where my thoughts have been written down is helpful in documenting the evolving learning process. I have also observed that some days there is a lot to say on a matter, and some days there is no need for it; nonetheless, it does not mean that learning is not happening.
+
+# Journal 16: 11/26/2018
+
+Today we began diving into frameworks with VueJS. It was a new experience of learning for me because I had never encountered Vue, or frameworks for that matter, before. There were many layers of understanding to be gained for the lab today like working in a one-page structure and maintaining the components style all while getting familiar with the Vue syntax. The lab itself was fairly simple (displaying a list of items the user can click on to then display the description of on the same page), but I spent quite a bit of time trying to get a deeper understanding of the classwork example. As a result, I have a relatively solidified understanding of the communication flow between the components.
