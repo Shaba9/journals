@@ -47,3 +47,7 @@ The process of keeping a journal has been comforting. To know that there is a pl
 # Journal 16: 11/26/2018
 
 Today we began diving into frameworks with VueJS. It was a new experience of learning for me because I had never encountered Vue, or frameworks for that matter, before. There were many layers of understanding to be gained for the lab today like working in a one-page structure and maintaining the components style all while getting familiar with the Vue syntax. The lab itself was fairly simple (displaying a list of items the user can click on to then display the description of on the same page), but I spent quite a bit of time trying to get a deeper understanding of the classwork example. As a result, I have a relatively solidified understanding of the communication flow between the components.
+
+# Journal 17: 11/27/2018
+
+Today I learned that the extra time I spent yesterday trying to really absorb the Vue component structure helped greatly; the lab today went super smooth!
