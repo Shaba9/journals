@@ -51,3 +51,7 @@ Today we began diving into frameworks with VueJS. It was a new experience of lea
 # Journal 17: 11/27/2018
 
 Today I learned that the extra time I spent yesterday trying to really absorb the Vue component structure helped greatly; the lab today went super smooth!
+
+# Journal 18: 11/28/2018
+
+My motivation for learning is seeing growth in not only myself but in the environment that is being affected around me as well.
