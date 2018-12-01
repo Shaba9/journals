@@ -55,3 +55,7 @@ Today I learned that the extra time I spent yesterday trying to really absorb th
 # Journal 18: 11/28/2018
 
 My motivation for learning is seeing growth in not only myself but in the environment that is being affected around me as well.
+
+# Journal 19: 11/30/2018
+
+The pair lab we are working on this week is quite dense in its requirements. We got pretty far, though. What I enjoyed the most about it was getting to know my partner and building a more meaningful relationship, which is pretty much the why behind my learning process.
