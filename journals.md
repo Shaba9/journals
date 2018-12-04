@@ -59,3 +59,7 @@ My motivation for learning is seeing growth in not only myself but in the enviro
 # Journal 19: 11/30/2018
 
 The pair lab we are working on this week is quite dense in its requirements. We got pretty far, though. What I enjoyed the most about it was getting to know my partner and building a more meaningful relationship, which is pretty much the why behind my learning process.
+
+# Journal 20 12/3/2018
+
+Like I have expressed numerous times before, motivation for learning is affected by external forces just as much as it is by internal forces. Internally, I am motivated by the idea of growth; doing better than I did the day before. Externally, I am motivated by how the implementation of the learning influences those around me.
