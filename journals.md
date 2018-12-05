@@ -63,3 +63,7 @@ The pair lab we are working on this week is quite dense in its requirements. We 
 # Journal 20 12/3/2018
 
 Like I have expressed numerous times before, motivation for learning is affected by external forces just as much as it is by internal forces. Internally, I am motivated by the idea of growth; doing better than I did the day before. Externally, I am motivated by how the implementation of the learning influences those around me.
+
+# Journal 21 12/4/2018
+
+The lab requirements were not very long; the setup for all the server stuff, however, was quite complicated and messy. Some things I did not expect was how long it took to figure out that I was missing a vue.config file. Furthermore, I am having a problem where the req.body in the post method is always empty when sending new data to be added to the server, even though there is content in it in the api before it gets fetched... I hope to figure this out in the morning with a TA.
