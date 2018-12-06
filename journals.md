@@ -67,3 +67,7 @@ Like I have expressed numerous times before, motivation for learning is affected
 # Journal 21 12/4/2018
 
 The lab requirements were not very long; the setup for all the server stuff, however, was quite complicated and messy. Some things I did not expect was how long it took to figure out that I was missing a vue.config file. Furthermore, I am having a problem where the req.body in the post method is always empty when sending new data to be added to the server, even though there is content in it in the api before it gets fetched... I hope to figure this out in the morning with a TA.
+
+# Journal 22 12/5/2018
+
+Today I learned how SQL acts as a database, and how it is integrated with JavaScript. I have always wondered how the two can be connected. Now I know.
